@@ -1,5 +1,7 @@
 //require('dotenv').config();
-
+const key = "<PINATA KEY>";
+const secret =
+  "<PINATA SECRET>";
 
 const axios = require("axios");
 const FormData = require("form-data");
